@@ -1,0 +1,12 @@
+.navbar{
+    background-image: url("../img/navbar.png");
+    height: 160px;
+}
+footer{
+    background-image: url("../img/navbar.png");
+    height: 160px;
+}
+main{
+    background-color: #125E23;
+    height: 83.2vh;
+}

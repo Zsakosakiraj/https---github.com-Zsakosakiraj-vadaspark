@@ -5,7 +5,7 @@ body:not(#home), .modal-content{
 }
 
 .modal-header, .modal-footer{
-    background-color: #FFF;
+    background-color: #3F6BF0;
 }
 .modal-title{
     color:white;
@@ -30,6 +30,7 @@ h5{
 
 h1{
    text-align: center;
+   font-family: cursive;
 }
 
 /*kivéve a home h1-e*/
@@ -38,11 +39,11 @@ h1:not(#home h1){
 }
 
 .navbar{
-    background-color: #0243bb;
+    background-color: #0243bb !important; 
 }
 
 header{
-   
+    background-image: url("../img/farkas_1920.jpg");
     height: 400px;
     background-position: center center;
     background-size: cover;
@@ -86,4 +87,15 @@ footer li{
 footer li>img{
     width: 15px;
     margin-right: 15px;
+}
+
+.nav{
+    background-color: #0243bb !important;
+}
+
+.card{
+    border-radius: 4px;
+}
+h5{
+    font-variant: small-caps;
 }

@@ -132,7 +132,7 @@
 <div class="col-md-6 col-lg-4 offset-lg-1 mt-2">
   <h4>Nyitvatartási rend</h4>
   <p>Minden nap 10:00 - 18:00 óráig</p>
-  <p>Pénztárzárás: 17:00 órakor</p>
+  <p>Pénztárzárás: 9:00 órakor</p>
 </div>
 
 <div class="col-md-6 col-lg-4 offset-lg-1 mt-2">

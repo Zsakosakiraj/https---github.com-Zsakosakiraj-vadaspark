@@ -7,6 +7,6 @@ footer{
     height: 160px;
 }
 main{
-    background-color: #125E23;
-    height: 83.2vh;
+    background-image: url("../img/mainbgg.png");
+    height: 793px;
 }
